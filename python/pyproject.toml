@@ -1,0 +1,11 @@
+[tool.poetry]
+name = "didactic-lamp"
+version = "0"
+description = "TBD"
+authors = ["Rafael Almeida <rafael@rafaelalmeida.pt>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+fastapi = "^0.75.2"
+uvicorn = "^0.17.6"
+uvloop = "^0.16.0"
